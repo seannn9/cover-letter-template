@@ -6,6 +6,14 @@ A customizable python script that asks for two inputs (company name, role you ar
 
 -   `python-docx` - a Python library for creating and updating Microsoft Word (.docx) files
 
+Install required packages in git bash
+
+```
+python -m venv .venv
+source .venv/Scripts/activate
+pip install -r requirements.txt
+```
+
 ### How-To:
 
 You can edit this code block to add custom variables.
